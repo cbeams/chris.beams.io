@@ -10,9 +10,8 @@ date: Sun Aug 31 02:45:42 +0200 2014
 
 ---
 
-<center>
-[Introduction](#intro) | [The Seven Rules](#seven-rules) | [Tips](#tips)
-</center>
+[Introduction](#intro) \| [The Seven Rules](#seven-rules) \| [Tips](#tips)
+{: style="text-align: center"}
 
 ---
 
@@ -174,7 +173,7 @@ Or, `git shortlog`, which groups commits by user, again showing just the subject
 
     Walter Gibbs (1):
           Introduce protoype chess program
-          
+
 There are a number of other contexts in Git where the distinction between subject line and body kicks in—but none of them work properly without the blank line in between.
 
 
@@ -183,7 +182,7 @@ There are a number of other contexts in Git where the distinction between subjec
 
 50 characters is not a hard limit, just a rule of thumb. Keeping subject lines at this length ensures that they are readable, and forces the author to think for a moment about the most concise way to explain what's going on.
 
-> _Tip: If you're having a hard time summarizing, you might be committing too many changes at once. Strive for [_atomic commits_](http://www.freshconsulting.com/atomic-commits/) (a topic for a separate post)._
+> _Tip: If you're having a hard time summarizing, you might be committing too many changes at once. Strive for [atomic commits](http://www.freshconsulting.com/atomic-commits/) (a topic for a separate post)._
 
 GitHub's UI is fully aware of these conventions. It will warn you if you go past the 50 character limit:
 
@@ -203,11 +202,13 @@ This is as simple as it sounds. Begin all subject lines with a capital letter.
 
 For example:
 
- - <font color="green">Accelerate to 88 miles per hour</font>
+ - Accelerate to 88 miles per hour
+{: style="color: green"}
 
 Instead of:
 
- - <font color="red">accelerate to 88 miles per hour</font>
+ - accelerate to 88 miles per hour
+{: style="color: red"}
 
 <a name="end"></a>
 ### 4. Do not end the subject line with a period
@@ -216,11 +217,13 @@ Trailing punctuation is unnecessary in subject lines. Besides, space is precious
 
 Example:
 
- - <font color="green">Open the pod bay doors</font>
+ - Open the pod bay doors
+{: style="color: green"}
 
 Instead of:
 
- - <font color="red">Open the pod bay doors.</font>
+ - Open the pod bay doors.
+{: style="color: red"}
 
 
 <a name="imperative"></a>
@@ -231,7 +234,7 @@ _Imperative mood_ just means "spoken or written as if giving a command or instru
  - Clean your room
  - Close the door
  - Take out the trash
- 
+
 Each of the seven rules you're reading about right now are written in the imperative ("Wrap the body at 72 characters", etc.).
 
 The imperative can sound a little rude; that's why we don't often use it. But it's perfect for Git commit subject lines. One reason for this is that **Git itself uses the imperative whenever it creates a commit on your behalf**.
@@ -252,32 +255,23 @@ Or when clicking the "Merge" button on a GitHub pull request:
 
 So when you write your commit messages in the imperative, you're following Git's own built-in conventions. For example:
 
-<font color="green">
-
  - Refactor subsystem X for readability
  - Update getting started documentation
  - Remove deprecated methods
  - Release version 1.0.0
-
-</font>
+{: style="color: green"}
 
 Writing this way can be a little awkward at first. We're more used to speaking in the _indicative mood_, which is all about reporting facts. That's why commit messages often end up reading like this:
 
-<font color="red">
-
  - Fixed bug with Y
  - Changing behavior of X
-
-</font>
+{: style="color: red"}
 
 And sometimes commit messages get written as a description of their contents:
 
-<font color="red">
-
  - More fixes for broken stuff
  - Sweet new API methods
-
-</font>
+{: style="color: red"}
 
 To remove any confusion, here's a simple rule to get it right every time.
 
@@ -287,18 +281,18 @@ To remove any confusion, here's a simple rule to get it right every time.
 
 For example:
 
- - If applied, this commit will <font color="green">_refactor subsystem X for readability_</font>
- - If applied, this commit will <font color="green">_update getting started documentation_</font>
- - If applied, this commit will <font color="green">_remove deprecated methods_</font>
- - If applied, this commit will <font color="green">_release version 1.0.0_</font>
- - If applied, this commit will <font color="green">_merge pull request #123 from user/branch_</font>
+ - If applied, this commit will _refactor subsystem X for readability_{: style="color: green"}
+ - If applied, this commit will _update getting started documentation_{: style="color: green"}
+ - If applied, this commit will _remove deprecated methods_{: style="color: green"}
+ - If applied, this commit will _release version 1.0.0_{: style="color: green"}
+ - If applied, this commit will _merge pull request #123 from user/branch_{: style="color: green"}
 
 Notice how this doesn't work for the other non-imperative forms:
 
- - If applied, this commit will <font color="red">_fixed bug with Y_</font>
- - If applied, this commit will <font color="red">_changing behavior of X_</font>
- - If applied, this commit will <font color="red">_more fixes for broken stuff_</font>
- - If applied, this commit will <font color="red">_sweet new API methods_</font>
+ - If applied, this commit will _fixed bug with Y_{: style="color: red"}
+ - If applied, this commit will _changing behavior of X_{: style="color: red"}
+ - If applied, this commit will _more fixes for broken stuff_{: style="color: red"}
+ - If applied, this commit will _sweet new API methods_{: style="color: red"}
 
 > _Remember: Use of the imperative is important only in the subject line. You can relax this restriction when you're writing the body._
 
