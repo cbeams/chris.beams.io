@@ -189,11 +189,11 @@ GitHub's UI is fully aware of these conventions. It will warn you if you go past
 
 ![gh1](http://i.imgur.com/zyBU2l6.png)
 
-And will truncate any subject line longer than 69 characters with an ellipsis:
+And will truncate any subject line longer than 72 characters with an ellipsis:
 
 ![gh2](http://i.imgur.com/27n9O8y.png)
 
-So shoot for 50 characters, but consider 69 the hard limit.
+So shoot for 50 characters, but consider 72 the hard limit.
 
 
 <a name="capitalize"></a>
