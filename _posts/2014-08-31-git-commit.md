@@ -126,7 +126,7 @@ Firstly, not every commit requires both a subject and a body. Sometimes a single
 
 Nothing more need be said; if the reader wonders what the typo was, she can simply take a look at the change itself, i.e. use `git show` or `git diff` or `git log -p`.
 
-If you're committing something like this at the command line, it's easy to use the `-m` switch to `git commit`:
+If you're committing something like this at the command line, it's easy to use the `-m` option to `git commit`:
 
     $ git commit -m"Fix typo in introduction to user guide"
 
@@ -138,7 +138,7 @@ However, when a commit merits a bit of explanation and context, you need to writ
     This commit throws Tron's disc into MCP (causing its deresolution)
     and turns it back into a chess game.
 
-This is not so easy to commit this with the `-m` switch. You really need a proper editor. If you do not already have an editor set up for use with git at the command line, read [this section of Pro Git](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration).
+Commit messages with bodies are not so easy to write with the `-m` option. You're better off writing the message in a proper text editor. If you do not already have an editor set up for use with git at the command line, read [this section of Pro Git](https://git-scm.com/book/en/v3/Customizing-Git-Git-Configuration).
 
 In any case, the separation of subject from body pays off when browsing the log. Here's the full log entry:
 
