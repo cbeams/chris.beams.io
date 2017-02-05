@@ -138,7 +138,7 @@ However, when a commit merits a bit of explanation and context, you need to writ
     This commit throws Tron's disc into MCP (causing its deresolution)
     and turns it back into a chess game.
 
-Commit messages with bodies are not so easy to write with the `-m` option. You're better off writing the message in a proper text editor. If you do not already have an editor set up for use with Git at the command line, read [this section of Pro Git](https://git-scm.com/book/en/v3/Customizing-Git-Git-Configuration).
+Commit messages with bodies are not so easy to write with the `-m` option. You're better off writing the message in a proper text editor. If you do not already have an editor set up for use with Git at the command line, read [this section of Pro Git](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration).
 
 In any case, the separation of subject from body pays off when browsing the log. Here's the full log entry:
 
