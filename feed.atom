@@ -4,8 +4,8 @@ layout: null
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Chris Beams</title>
-  <link href="{{ site.url }}/feed.atom" rel="self"/>
-  <link href="{{ site.url }}"/>
+  <link rel="self" type="application/atom+xml" href="{{ site.url }}{{ page.url }}"/>
+  <link rel="alternate" type="text/html" href="{{ site.url }}"/>
   <id>{{ site.url }}</id>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <author>
