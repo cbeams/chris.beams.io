@@ -1,4 +1,3 @@
 markdown:         redcarpet
 permalink:        /posts/:title/
 url:              http://chris.beams.io
-feedurl:          http://feed.chris.beams.io
