@@ -15,8 +15,8 @@ date: Sun Aug 31 02:45:42 +0200 2014
 
 ---
 
-<a name="intro"></a>
 ## Introduction: Why good commit messages matter
+{: #intro}
 
 If you browse the log of any random Git repository, you will probably find its commit messages are more or less a mess. For example, take a look at [these gems](https://github.com/spring-projects/spring-framework/commits/e5f4b49?author=cbeams) from my early days committing to Spring:
 
@@ -69,8 +69,8 @@ A team's approach to its commit log should be no different. In order to create a
 Fortunately, there are well-established conventions as to what makes an idiomatic Git commit message. Indeed, many of them are assumed in the way certain Git commands function. There's nothing you need to re-invent. Just follow the [seven rules](#seven-rules) below and you're on your way to committing like a pro.
 
 
-<a name="seven-rules"></a>
 ## The seven rules of a great Git commit message
+{: #seven-rules}
 
 > _Keep in mind: [This][1] [has][2] [all][3] [been][4] [said][5] [before][6]._
 
@@ -112,8 +112,8 @@ For example:
     Resolves: #123
     See also: #456, #789
 
-<a name="separate"></a>
 ### 1. Separate subject from body with a blank line
+{: #separate}
 
 From the `git commit` [manpage](https://www.kernel.org/pub/software/scm/git/docs/git-commit.html#_discussion):
 
@@ -177,8 +177,8 @@ Or, `git shortlog`, which groups commits by user, again showing just the subject
 There are a number of other contexts in Git where the distinction between subject line and body kicks in—but none of them work properly without the blank line in between.
 
 
-<a name="limit-50"></a>
 ### 2. Limit the subject line to 50 characters
+{: #limit-50}
 
 50 characters is not a hard limit, just a rule of thumb. Keeping subject lines at this length ensures that they are readable, and forces the author to think for a moment about the most concise way to explain what's going on.
 
@@ -195,8 +195,8 @@ And will truncate any subject line longer than 72 characters with an ellipsis:
 So shoot for 50 characters, but consider 72 the hard limit.
 
 
-<a name="capitalize"></a>
 ### 3. Capitalize the subject line
+{: #capitalize}
 
 This is as simple as it sounds. Begin all subject lines with a capital letter.
 
@@ -210,8 +210,8 @@ Instead of:
  - accelerate to 88 miles per hour
 {: style="color: red"}
 
-<a name="end"></a>
 ### 4. Do not end the subject line with a period
+{: #end}
 
 Trailing punctuation is unnecessary in subject lines. Besides, space is precious when you're trying to keep them to [50 chars or less](#limit-50).
 
@@ -226,8 +226,8 @@ Instead of:
 {: style="color: red"}
 
 
-<a name="imperative"></a>
 ### 5. Use the imperative mood in the subject line
+{: #imperative}
 
 _Imperative mood_ just means "spoken or written as if giving a command or instruction". A few examples:
 
@@ -296,8 +296,8 @@ Notice how this doesn't work for the other non-imperative forms:
 
 > _Remember: Use of the imperative is important only in the subject line. You can relax this restriction when you're writing the body._
 
-<a name="wrap-72"></a>
 ### 6. Wrap the body at 72 characters
+{: #wrap-72}
 
 Git never wraps text automatically. When you write the body of a commit message, you must mind its right margin, and wrap text manually.
 
@@ -306,8 +306,8 @@ The recommendation is to do this at 72 characters, so that Git has plenty of roo
 A good text editor can help here. It's easy to configure Vim, for example, to wrap text at 72 characters when you're writing a Git commit. Traditionally, however, IDEs have been terrible at providing smart support for text wrapping in commit messages (although in recent versions, IntelliJ IDEA has [finally](http://youtrack.jetbrains.com/issue/IDEA-53615) [gotten](http://youtrack.jetbrains.com/issue/IDEA-53615#comment=27-448299) [better](http://youtrack.jetbrains.com/issue/IDEA-53615#comment=27-446912) about this).
 
 
-<a name="why-not-how"></a>
 ### 7. Use the body to explain what and why vs. how
+{: #why-not-how}
 
 This [commit from Bitcoin Core](https://github.com/bitcoin/bitcoin/commit/eb0b56b19017ab5c16c745e6da39c53126924ed6) is a great example of explaining what changed and why:
 
@@ -340,8 +340,8 @@ In most cases, you can leave out details about how a change has been made. Code 
 The future maintainer that thanks you may be yourself!
 
 
-<a name="tips"></a>
 ## Tips
+{: #tips}
 
 ### Learn to love the command line. Leave the IDE behind.
 
