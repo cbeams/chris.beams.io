@@ -5,7 +5,7 @@ date: Sun Aug 31 02:45:42 +0200 2014
 ---
 
 <center>
-<a href="http://xkcd.com/1296/"><img src="http://imgs.xkcd.com/comics/git_commit.png"/></a>
+  <a href="https://xkcd.com/1296/"><img src="https://imgs.xkcd.com/comics/git_commit.png"/></a>
 </center>
 
 ---
@@ -187,11 +187,11 @@ There are a number of other contexts in Git where the distinction between subjec
 
 GitHub's UI is fully aware of these conventions. It will warn you if you go past the 50 character limit:
 
-![gh1](http://i.imgur.com/zyBU2l6.png)
+![gh1](https://i.imgur.com/zyBU2l6.png)
 
 And will truncate any subject line longer than 72 characters with an ellipsis:
 
-![gh2](http://i.imgur.com/27n9O8y.png)
+![gh2](https://i.imgur.com/27n9O8y.png)
 
 So shoot for 50 characters, but consider 72 the hard limit.
 
