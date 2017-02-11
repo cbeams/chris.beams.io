@@ -7,6 +7,7 @@ layout: default
     <a href="https://github.com/cbeams/cbeams.github.io/commits/master/{{ page.path }}" target="_blank">revision history</a>
 </span>
 {{ content }}
+{% if jekyll.environment == 'production' %}
 <div>
   <hr/>
   <a id="comments"/>
@@ -18,4 +19,5 @@ layout: default
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
   </script>
 </div>
+{% endif%}
 </div>

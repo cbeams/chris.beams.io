@@ -15,6 +15,7 @@
 </div>
 {{ content }}
 </div>
+{% if jekyll.environment == 'production' %}
 <script type="text/javascript">
   var _gauges = _gauges || [];
   (function() {
@@ -28,5 +29,6 @@
     s.parentNode.insertBefore(t, s);
   })();
 </script>
+{% endif %}
 </body>
 </html>
