@@ -2,3 +2,4 @@ markdown:         kramdown
 permalink:        /posts/:title/
 url:              https://chris.beams.io
 port:             7200
+livereload:       true
