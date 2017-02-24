@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How to Write a Git Commit Message
-date: Sun Aug 31 02:45:42 +0200 2014
 ---
 
 <center>
