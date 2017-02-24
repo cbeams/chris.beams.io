@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Example content
+sitemap: false
 ---
 
 
