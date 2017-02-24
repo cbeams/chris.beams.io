@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Write a Git Commit Message
+last_modified_at: Fri Feb 3 14:44:16 2017 -0600
 ---
 
 <center>
