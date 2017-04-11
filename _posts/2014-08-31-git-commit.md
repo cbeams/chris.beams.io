@@ -360,7 +360,7 @@ The [Pro Git](http://git-scm.com/book) book is available online for free, and it
 
 [1]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 [2]: http://www.git-scm.com/book/en/Distributed-Git-Contributing-to-a-Project#Commit-Guidelines
-[3]: https://github.com/torvalds/subsurface/blob/master/README#L82-109
+[3]: https://github.com/torvalds/subsurface-for-dirk/blob/master/README#L92-L120
 [4]: http://who-t.blogspot.co.at/2009/12/on-commit-messages.html
 [5]: https://github.com/erlang/otp/wiki/writing-good-commit-messages
 [6]: https://github.com/spring-projects/spring-framework/blob/30bce7/CONTRIBUTING.md#format-commit-messages
