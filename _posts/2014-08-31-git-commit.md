@@ -182,7 +182,7 @@ There are a number of other contexts in Git where the distinction between subjec
 
 50 characters is not a hard limit, just a rule of thumb. Keeping subject lines at this length ensures that they are readable, and forces the author to think for a moment about the most concise way to explain what's going on.
 
-> _Tip: If you're having a hard time summarizing, you might be committing too many changes at once. Strive for [atomic commits](http://www.freshconsulting.com/atomic-commits/) (a topic for a separate post)._
+> _Tip: If you're having a hard time summarizing, you might be committing too many changes at once. Strive for [atomic commits](https://www.freshconsulting.com/atomic-commits/) (a topic for a separate post)._
 
 GitHub's UI is fully aware of these conventions. It will warn you if you go past the 50 character limit:
 
@@ -303,7 +303,7 @@ Git never wraps text automatically. When you write the body of a commit message,
 
 The recommendation is to do this at 72 characters, so that Git has plenty of room to indent text while still keeping everything under 80 characters overall.
 
-A good text editor can help here. It's easy to configure Vim, for example, to wrap text at 72 characters when you're writing a Git commit. Traditionally, however, IDEs have been terrible at providing smart support for text wrapping in commit messages (although in recent versions, IntelliJ IDEA has [finally](http://youtrack.jetbrains.com/issue/IDEA-53615) [gotten](http://youtrack.jetbrains.com/issue/IDEA-53615#comment=27-448299) [better](http://youtrack.jetbrains.com/issue/IDEA-53615#comment=27-446912) about this).
+A good text editor can help here. It's easy to configure Vim, for example, to wrap text at 72 characters when you're writing a Git commit. Traditionally, however, IDEs have been terrible at providing smart support for text wrapping in commit messages (although in recent versions, IntelliJ IDEA has [finally](https://youtrack.jetbrains.com/issue/IDEA-53615) [gotten](https://youtrack.jetbrains.com/issue/IDEA-53615#comment=27-448299) [better](https://youtrack.jetbrains.com/issue/IDEA-53615#comment=27-446912) about this).
 
 
 ### 7. Use the body to explain what and why vs. how
@@ -351,15 +351,15 @@ Certain Git-related IDE functions are invaluable, like calling `git rm` when you
 
 When it comes to wielding the full power of Git, it's command-line all the way.
 
-Remember that whether you use Bash or Z shell, there are [tab completion scripts](http://git-scm.com/book/en/Git-Basics-Tips-and-Tricks) that take much of the pain out of remembering the subcommands and switches.
+Remember that whether you use Bash or Zsh or Powershell, there are [tab](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Bash) [completion](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Zsh) [scripts](https://git-scm.com/book/en/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Powershell) that take much of the pain out of remembering the subcommands and switches.
 
 ### Read Pro Git
 
-The [Pro Git](http://git-scm.com/book) book is available online for free, and it's fantastic. Take advantage!
+The [Pro Git](https://git-scm.com/book/en/v2) book is available online for free, and it's fantastic. Take advantage!
 
 
 [1]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
-[2]: http://www.git-scm.com/book/en/Distributed-Git-Contributing-to-a-Project#Commit-Guidelines
+[2]: https://www.git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project#_commit_guidelines
 [3]: https://github.com/torvalds/subsurface-for-dirk/blob/master/README#L92-L120
 [4]: http://who-t.blogspot.co.at/2009/12/on-commit-messages.html
 [5]: https://github.com/erlang/otp/wiki/writing-good-commit-messages
