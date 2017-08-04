@@ -4,3 +4,5 @@ http://chrisbeams.com https://chris.beams.io 302
 
 http://chris.beams.io https://chris.beams.io 301
 http://chris.beams.io/* https://chris.beams.io/:splat 301
+
+/19020223 /posts/git-commit 301
