@@ -7,7 +7,7 @@ layout: default
     <a href="https://github.com/cbeams/chris.beams.io/commits/master/{{ page.path }}" target="_blank">revision history</a>
 </span>
 {{ content }}
-{% if jekyll.environment != 'development' %}
+{% if jekyll.environment == 'production' %}
 <div>
   <hr/>
   <a id="comments"/>
