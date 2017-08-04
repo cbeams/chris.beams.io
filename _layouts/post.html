@@ -4,7 +4,7 @@ layout: default
 <div class="post">
 <h1 class="post-title">{{ page.title }}{%if page.subtitle %}<br/><em><small>{{ page.subtitle }}</small></em>{% endif %}</h1>
 <span class="post-date">{{ page.date | date_to_string }} |
-    <a href="https://github.com/cbeams/chris.beams.io/commits/gh-pages/{{ page.path }}" target="_blank">revision history</a>
+    <a href="https://github.com/cbeams/chris.beams.io/commits/master/{{ page.path }}" target="_blank">revision history</a>
 </span>
 {{ content }}
 {% if jekyll.environment == 'production' %}
