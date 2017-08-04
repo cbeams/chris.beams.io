@@ -15,7 +15,7 @@
 </div>
 {{ content }}
 </div>
-{% if jekyll.environment == 'production' %}
+{% if jekyll.environment != 'development' %}
 <script type="text/javascript">
   var _gauges = _gauges || [];
   (function() {
