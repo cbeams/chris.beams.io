@@ -3,6 +3,7 @@ permalink:        /posts/:title/
 url:              https://chris.beams.io
 port:             7200
 livereload:       true
+repository:       cbeams/chris.beams.io
 gems:
   - jekyll-sitemap
 include:
