@@ -5,6 +5,8 @@ port:             7200
 livereload:       true
 gems:
   - jekyll-sitemap
+include:
+  - _redirects
 exclude:
   - CNAME
   - Gemfile
