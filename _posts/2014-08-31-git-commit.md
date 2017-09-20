@@ -40,7 +40,8 @@ Yikes. Compare that with these [more recent](https://github.com/spring-projects/
 
 Which would you rather read?
 
-The former varies in length and form; the latter is concise and consistent. The former is what happens by default; the latter never happens by accident.
+The former varies in length and form; the latter is concise and consistent.<br>
+The former is what happens by default; the latter never happens by accident.
 
 While many repositories' logs look like the former, there are exceptions. The [Linux kernel](https://github.com/torvalds/linux/commits/master) and [Git itself](https://github.com/git/git/commits/master) are great examples. Look at [Spring Boot](https://github.com/spring-projects/spring-boot/commits/master), or any repository managed by [Tim Pope](https://github.com/tpope/vim-pathogen/commits/master).
 
