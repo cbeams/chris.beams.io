@@ -128,7 +128,7 @@ Nothing more need be said; if the reader wonders what the typo was, she can simp
 
 If you're committing something like this at the command line, it's easy to use the `-m` option to `git commit`:
 
-    $ git commit -m"Fix typo in introduction to user guide"
+    $ git commit -m "Fix typo in introduction to user guide"
 
 However, when a commit merits a bit of explanation and context, you need to write a body. For example:
 
