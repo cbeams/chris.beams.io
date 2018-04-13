@@ -85,7 +85,7 @@ Fortunately, there are well-established conventions as to what makes an idiomati
 
 For example:
 
-    Summarize changes in around 50 characters or less
+    Summarize changes in around 50 characters or fewer
 
     More detailed explanatory text, if necessary. Wrap it to about 72
     characters or so. In some contexts, the first line is treated as the
