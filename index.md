@@ -8,17 +8,17 @@ title: Chris Beams
 
  - Twitter: [@cbeams](https://twitter.com/cbeams)
  - GitHub: [@cbeams](https://github.com/cbeams)
- - Keybase: [@cbeams](https://keybase.com/cbeams)
- - Earn.com: [@cbeams](https://earn.com/cbeams) (response guaranteed)
+ - Keybase: [@cbeams](https://keybase.io/cbeams)
+ - Earn.com: [@cbeams](https://earn.com/cbeams) (reply guaranteed)
  - Email: [chris@beams.io](mailto:chris@beams.io) ([pgp](pgp.txt))
 
 
 ## What I'm doing now
 
- - Building [Bisq](https://bisq.network), a peer-to-peer bitcoin exchange network
- - Undergoing treatment for acute myeloid leukemia (AML)
+ - Building [Bisq](https://bisq.network), a peer-to-peer bitcoin exchange network (currently on [hiatus](https://github.com/bisq-network/roles/issues/1#issuecomment-444857417))
+ - Undergoing treatment for acute myeloid leukemia ([AML]({% post_url 2018-05-24-hello-aml %}))
  - Recovering from [parapelegia](https://en.wikipedia.org/wiki/Paraplegia) caused by treatment-related complications
- - Learning to play the harmonica
+ - Learning to play the ukulele
 
 
 ## Writing
