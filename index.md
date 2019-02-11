@@ -43,13 +43,13 @@ title: Chris Beams
  - 2017.12 - The Bitcoin News Show #63 - [Decentralized Exchanges](https://www.youtube.com/watch?v=VoSLBsUsmTo) (video, 64 mins)
  - 2017.11 - Baltic Honeybadger 2017 - [Crypto business panel](https://www.youtube.com/watch?v=BLqm2FNOmbU&t=4475) (video, 60 mins)
  - 2017.11 - Changelog #269 - [Bisq, the decentralized Bitcoin exchange](https://changelog.com/podcast/269) (audio, 110 mins)
- - 2017.10 - World Crypto Network - [Live from Hackers Congress 2017 in Prauge](https://www.youtube.com/watch?time_continue=8&v=AvXWToT-dcQ) (video, 15 min)
+ - 2017.10 - World Crypto Network - [Live from Hackers Congress 2017 in Prague](https://www.youtube.com/watch?time_continue=8&v=AvXWToT-dcQ) (video, 15 min)
 
 
 ## Talks
 
  - 2017.12 - 34th Chaos Computer Congress, Leipzig - [Bisq, a Decentralized Bitcoin Exchange](https://www.youtube.com/watch?time_continue=90&v=Fv-eCchzBZA) (video, 41 mins; [slides](https://docs.google.com/presentation/d/14yTWXvevSTAedFaKYbPjtgyR0J_ejjJQVdJlWj9_9bo/edit#slide=id.p))
- - 2017.10 - Hackers Congress 2017, Prauge - [How to Bootstrap a DAO](https://www.youtube.com/watch?v=rSiHPcuwbo8) (video, 45 mins; [slides](https://docs.google.com/presentation/d/1G5_6Kju2OoItZ5lD0jnskqLdOV2dAJpdB6WOjmq9hRk/edit#slide=id.p))
+ - 2017.10 - Hackers Congress 2017, Prague - [How to Bootstrap a DAO](https://www.youtube.com/watch?v=rSiHPcuwbo8) (video, 45 mins; [slides](https://docs.google.com/presentation/d/1G5_6Kju2OoItZ5lD0jnskqLdOV2dAJpdB6WOjmq9hRk/edit#slide=id.p))
  - 2016.06 - Gradle Summit 2016, Palo Alto - [Writing Gradle Build Scripts in Kotlin](https://www.youtube.com/watch?v=vv4zh_oPBTw) (video, 45 mins)
  - 2014.09 - SpringOne 2GX 2014, Dallas - [The Revolution Will Not Be Centralized](https://www.infoq.com/presentations/spring-data-gemfire-7-5) (video, 90 mins; [slides](https://speakerdeck.com/cbeams/the-revolution-will-not-be-centralized))
  - 2013.10 - SpringOne 2GX 2013, Santa Clara - [Spring.io Inside and Out](https://www.youtube.com/watch?v=pA1oGmd1R5w) (video, 90 mins; [slides](https://speakerdeck.com/cbeams/spring-dot-io-inside-and-out))
