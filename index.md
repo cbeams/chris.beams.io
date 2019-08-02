@@ -15,15 +15,14 @@ title: Chris Beams
 
 ## What I'm doing now
 
- - Building [Bisq](https://bisq.network), a peer-to-peer bitcoin exchange network (currently on [hiatus](https://github.com/bisq-network/roles/issues/1#issuecomment-444857417))
- - Undergoing treatment for acute myeloid leukemia ([AML]({% post_url 2018-05-24-hello-aml %}))
- - Recovering from [parapelegia](https://en.wikipedia.org/wiki/Paraplegia) caused by treatment-related complications
- - Learning to play the ukulele
+ - Undergoing treatment for acute myeloid leukemia (nearly complete)
+ - Recovering from [parapelegia](https://en.wikipedia.org/wiki/Paraplegia) caused by treatment-related complications (see _AML, Part III_ post below)
 
 
 ## Writing
 
 <ul>
+  <li><a href="https://twitter.com/cbeams/status/1157352205239894016">AML, Part III and paraplegia</a> (Twitter thread)</li>
   {% for post in site.posts %}
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
