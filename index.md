@@ -16,7 +16,7 @@ title: Chris Beams
 ## What I'm doing now
 
  - Undergoing treatment for acute myeloid leukemia (nearly complete)
- - Recovering from [parapelegia](https://en.wikipedia.org/wiki/Paraplegia) caused by treatment-related complications (see _AML, Part III_ post below)
+ - Recovering from [paraplegia](https://en.wikipedia.org/wiki/Paraplegia) caused by treatment-related complications (see _AML, Part III_ post below)
 
 
 ## Writing
