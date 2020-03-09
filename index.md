@@ -8,15 +8,9 @@ title: Chris Beams
 
  - Twitter: [@cbeams](https://twitter.com/cbeams)
  - GitHub: [@cbeams](https://github.com/cbeams)
- - Keybase: [@cbeams](https://keybase.io/cbeams)
+ - Keybase: [@cbeams](https://keybase.io/cbeams/chat)
  - Earn.com: [@cbeams](https://earn.com/cbeams) (reply guaranteed)
  - Email: [chris@beams.io](mailto:chris@beams.io) ([pgp](pgp.txt))
-
-
-## What I'm doing now
-
- - Undergoing treatment for acute myeloid leukemia (nearly complete)
- - Recovering from [paraplegia](https://en.wikipedia.org/wiki/Paraplegia) caused by treatment-related complications (see _AML, Part III_ post below)
 
 
 ## Writing
