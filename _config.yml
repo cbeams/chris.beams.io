@@ -12,3 +12,4 @@ exclude:
   - CNAME
   - Gemfile
   - README.md
+  - serve.sh
