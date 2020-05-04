@@ -42,6 +42,10 @@ h1 {
   padding-left: 10px;
 }
 
+pre {
+  overflow-x: scroll;
+}
+
 @media screen and (max-width: 780px) {
   .content, .menu {
     width: 100%;
