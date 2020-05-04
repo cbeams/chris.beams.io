@@ -31,7 +31,15 @@ h1 {
   font-weight: 400;
 }
 
-h2, h3 {
+h2 {
+  border-bottom: 1px solid #eaecef;
+  padding-bottom: .3em;
+  font-weight: 600;
+}
+
+h3 {
+  margin-top: 24px;
+  margin-bottom: 16px;
   font-weight: 600;
 }
 
