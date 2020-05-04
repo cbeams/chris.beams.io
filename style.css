@@ -43,7 +43,12 @@ h1 {
 }
 
 pre {
-  overflow-x: scroll;
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f6f8fa;
+  border-radius: 3px;
 }
 
 @media screen and (max-width: 780px) {
