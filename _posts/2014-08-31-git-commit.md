@@ -8,10 +8,8 @@ last_modified_at: Fri Feb 3 14:44:16 2017 -0600
 <img class="center" src="https://imgs.xkcd.com/comics/git_commit_2x.png" style="width: 439px; height: 250px"/>
 </a>
 
----
-[Introduction](#intro) \| [The Seven Rules](#seven-rules) \| [Tips](#tips)
+_Jump to [the seven rules](#seven-rules)_
 {: style="text-align: center"}
----
 
 ## Introduction: Why good commit messages matter
 {: #intro}

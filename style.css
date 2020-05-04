@@ -72,10 +72,6 @@ blockquote {
   border-left: .25em solid #dfe2e5;
 }
 
-hr {
-  border: 0.5px solid #e1e4e8;
-}
-
 @media screen and (max-width: 780px) {
   .content, .menu {
     width: 100%;
