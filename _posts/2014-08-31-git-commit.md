@@ -4,15 +4,13 @@ title: How to Write a Git Commit Message
 last_modified_at: Fri Feb 3 14:44:16 2017 -0600
 ---
 
-<center>
-  <a href="https://xkcd.com/1296/"><img src="https://imgs.xkcd.com/comics/git_commit_2x.png" width="439" height="250"/></a>
-</center>
+<a href="https://xkcd.com/1296/">
+<img class="center" src="https://imgs.xkcd.com/comics/git_commit_2x.png" style="width: 439px"/>
+</a>
 
 ---
-
 [Introduction](#intro) \| [The Seven Rules](#seven-rules) \| [Tips](#tips)
 {: style="text-align: center"}
-
 ---
 
 ## Introduction: Why good commit messages matter
