@@ -2,6 +2,12 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
 .container {
   max-width: 1012px;
   horiz-align: center;
