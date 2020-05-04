@@ -5,7 +5,7 @@ last_modified_at: Fri Feb 3 14:44:16 2017 -0600
 ---
 
 <a href="https://xkcd.com/1296/">
-<img class="center" src="https://imgs.xkcd.com/comics/git_commit_2x.png" style="width: 439px"/>
+<img class="center" src="https://imgs.xkcd.com/comics/git_commit_2x.png" style="width: 439px; height: 250px"/>
 </a>
 
 ---
