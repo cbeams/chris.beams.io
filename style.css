@@ -1,17 +1,27 @@
 * {
   box-sizing: border-box;
 }
+
+.container {
+  max-width: 1012px;
+  horiz-align: center;
+  margin: auto;
+  padding: 40px
+}
+
 .content {
   float: left;
   width: 70%;
   padding-right: 10px;
 }
+
 .menu {
   float: left;
   width: 30%;
   min-width: 230px;
   padding-left: 10px;
 }
+
 @media screen and (max-width: 780px) {
   .content, .menu {
     width: 100%;
