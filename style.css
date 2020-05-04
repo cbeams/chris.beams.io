@@ -28,7 +28,7 @@ h1 {
   border-bottom: 1px solid #e1e4e8;
   margin-bottom: 20px;
   line-height: 2.0rem;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 h2 {
@@ -45,15 +45,34 @@ h3 {
 
 .content {
   float: left;
-  width: 70%;
+  width: 75%;
   padding-right: 10px;
 }
 
 .menu {
-  float: left;
-  width: 30%;
-  min-width: 230px;
-  padding-left: 10px;
+  float: right;
+  width: 230px;
+  padding: 8px 16px;
+  border: 1px solid #e1e4e8;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+.menu > h3 {
+  margin: 0 0 16px 0;
+  font-size: 1.25em;
+}
+
+.content ul {
+  padding-left: 32px;
+}
+
+.menu > ul > li {
+  font-weight: 600;
+}
+
+.menu ul {
+  padding-left: 26px;
 }
 
 pre {
@@ -89,7 +108,7 @@ blockquote {
   margin-left: 0;
 }
 
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 980px) {
   .content, .menu {
     width: 100%;
     padding: 0;
