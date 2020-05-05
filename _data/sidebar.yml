@@ -1,0 +1,29 @@
+- title: Home
+  url: /
+- title: Posts
+  url: /posts
+  subitems:
+    - title: How to Write a Git Commit Message
+      url: /posts/git-commit
+- title: Projects
+  subitems:
+    - title: Bisq (p2p bitcoin exchange)
+      url: https://bisq.network
+- title: Talks & Presentations
+  url: /talks
+- title: Podcasts & Interviews
+  url: /interviews
+- title: Contact
+  subitems:
+    - title: "Twitter"
+      url: https://twitter.com/cbeams
+    - title: "Keybase"
+      url: https://keybase.io/cbeams
+    - title: "GitHub"
+      url: https://github.com/cbeams
+    - title: "Email"
+      url: mailto:chris@beams.io
+    - title: "PGP"
+      url: /pgp.txt
+- title: RSS (Atom) Feed
+  url: /feed.atom

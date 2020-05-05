@@ -49,7 +49,7 @@ h3 {
   padding-right: 10px;
 }
 
-.menu {
+.sidebar {
   float: right;
   width: 230px;
   padding: 8px 16px;
@@ -58,7 +58,7 @@ h3 {
   font-size: 13px;
 }
 
-.menu > h3 {
+.sidebar > h3 {
   margin: 0 0 16px 0;
   font-size: 1.25em;
 }
@@ -67,11 +67,11 @@ h3 {
   padding-left: 32px;
 }
 
-.menu > ul > li {
+.sidebar > ul > li {
   font-weight: 600;
 }
 
-.menu ul {
+.sidebar ul {
   padding-left: 26px;
 }
 
@@ -109,7 +109,7 @@ blockquote {
 }
 
 @media screen and (max-width: 980px) {
-  .content, .menu {
+  .content, .sidebar {
     width: 100%;
     padding: 0;
   }

@@ -3,15 +3,7 @@ layout: page
 title: Chris Beams
 ---
 
-# Chris Beams
 ![Chris in 2016](cbeams.jpg)
-
- - Twitter: [@cbeams](https://twitter.com/cbeams)
- - GitHub: [@cbeams](https://github.com/cbeams)
- - Keybase: [@cbeams](https://keybase.io/cbeams/chat)
- - Earn.com: [@cbeams](https://earn.com/cbeams) (reply guaranteed)
- - Email: [chris@beams.io](mailto:chris@beams.io) ([pgp](pgp.txt))
-
 
 ## Writing
 

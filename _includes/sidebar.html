@@ -1,0 +1,23 @@
+{% unless page.url == '/' %}
+<h3>Chris Beams (@cbeams)</h3>
+{% endunless %}
+<ul>
+  {% for item in site.data.sidebar %}
+  <li>
+    {% if item.url %}
+    <a href="{{ item.url }}">{{ item.title }}</a>
+    {% else %}
+    {{ item.title }}
+    {% endif %}
+  </li>
+  {% if item.subitems %}
+  <ul>
+    {% for subitem in item.subitems %}
+    <li>
+      <a href="{{ subitem.url }}">{{ subitem.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+  {% endfor %}
+</ul>
