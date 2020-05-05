@@ -9,10 +9,10 @@
   subitems:
     - title: Bisq (p2p bitcoin exchange)
       url: https://bisq.network
+- title: Podcasts & Interviews
+  url: /media
 - title: Talks & Presentations
   url: /talks
-- title: Podcasts & Interviews
-  url: /interviews
 - title: Contact
   subitems:
     - title: "Twitter"
