@@ -7,8 +7,10 @@
       url: /posts/git-commit
 - title: Projects
   subitems:
-    - title: Bisq (p2p bitcoin exchange)
+    - title: Bisq
       url: https://bisq.network
+- title: Bitcoin Consulting
+  url: /bitcoin
 - title: Podcasts & Interviews
   url: /media
 - title: Talks & Presentations
