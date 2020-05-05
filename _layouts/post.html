@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<div style="font-size: 14px; color: #586069;">Posted {{ page.date | date_to_string }} ·
+    <a style="color: #586069" href="https://github.com/cbeams/chris.beams.io/commits/master/{{ page.path }}" target="_blank">revision history</a>
+</div>
 {{ content }}
 {% if jekyll.environment == 'production' %}
 <div>
