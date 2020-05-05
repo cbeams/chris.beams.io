@@ -50,6 +50,7 @@ h3 {
   float: left;
   width: 75%;
   padding-right: 10px;
+  margin-bottom: 20px;
 }
 
 .sidebar {
@@ -59,6 +60,7 @@ h3 {
   border: 1px solid #e1e4e8;
   border-radius: 4px;
   font-size: 13px;
+  margin-bottom: 20px;
 }
 
 .sidebar > h3 {
@@ -114,6 +116,8 @@ blockquote {
 @media screen and (max-width: 980px) {
   .content, .sidebar {
     width: 100%;
-    padding: 0;
+  }
+  .content {
+    padding-right: 0;
   }
 }
