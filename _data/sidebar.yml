@@ -9,12 +9,12 @@
   subitems:
     - title: Bisq
       url: https://bisq.network
-- title: Bitcoin Consulting
-  url: /bitcoin
 - title: Podcasts & Interviews
   url: /media
 - title: Talks & Presentations
   url: /talks
+- title: Bitcoin Consulting
+  url: /bitcoin
 - title: Contact
   subitems:
     - title: "Twitter"
