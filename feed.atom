@@ -10,7 +10,6 @@ layout: null
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <author>
     <name>Chris Beams</name>
-    <email>chris@beams.io</email>
   </author>
   {% for post in site.posts %}
     {% unless post.featured == false %}

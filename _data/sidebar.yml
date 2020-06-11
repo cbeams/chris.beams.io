@@ -5,16 +5,10 @@
   subitems:
     - title: How to Write a Git Commit Message
       url: /posts/git-commit
-- title: Projects
-  subitems:
-    - title: Bisq
-      url: https://bisq.network
 - title: Podcasts & Interviews
   url: /media
 - title: Talks & Presentations
   url: /talks
-- title: Bitcoin Consulting
-  url: /bitcoin
 - title: Contact
   subitems:
     - title: "Twitter"
@@ -23,8 +17,6 @@
       url: https://keybase.io/cbeams
     - title: "GitHub"
       url: https://github.com/cbeams
-    - title: "Email"
-      url: mailto:chris@beams.io
     - title: "PGP"
       url: /pgp.txt
 - title: RSS (Atom) Feed
