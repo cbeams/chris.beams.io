@@ -1,0 +1,41 @@
+----
+Date: January 10th, 2021
+Subject: Please join me in moving from WhatsApp to Signal
+To: undisclosed-recipients:;
+----
+
+Hi everyone,
+
+If you're reading this, you're someone I communicate with via WhatsApp. I'm writing to ask you to join me in moving away from WhatsApp to Signal.
+
+Many of you already use Signal. If so, this note is just an FYI. Feel free to drop me a line and let me know you're happy to chat there!
+
+For everybody else, let me explain a bit about Signal, why I won't be using WhatsApp anymore, and why I hope you'll join me in making the move.
+
+Signal is a secure messaging app that's easy to use and very similar to WhatsApp, but better in a few important ways:
+
+1. It's open source, so there are no secrets about the way it works.
+2. It's operated by a non-profit organization.
+3. It's built to respect your privacy.
+4. It's got a great reputation for doing so.
+
+If you've already heard enough, you can install it straight away. It's available for all desktop and mobile platforms at https://signal.org [1].
+
+Why doing this is important now:
+
+As you may know, WhatsApp is owned by Facebook. To date, WhatsApp has not shared information about you with Facebook, but that's about to change.
+
+On February 8th, WhatsApp will begin sharing information with Facebook including who you talk to, how long you talk, your IP address, your contact list and more [2]. I'm not comfortable with this because I value my privacy and I don't want to be part of Facebook's surveillance-based business model.
+
+If you don't accept this new privacy policy on February 8th, you will lose access to your account. I will not accept it, so I will no longer be available via WhatsApp after that date. But I very much want to stay in touch with you, so whether or not you choose to continue using WhatsApp, I hope you'll join me on Signal.
+
+Once you have Signal installed, please send me a message. You can find me via my phone number (available on request). I'll see you there!
+
+With love,
+
+Chris
+
+P.S: A note to my friends and family in Europe: WhatsApp has said that these changes will not take effect in the EU and UK because of data privacy laws. Still, I'll be saying goodbye to WhatsApp on February 8th and I hope you'll join me. Let's act together to protect our privacy!
+
+[1]: https://signal.org
+[2]: https://www.bbc.com/news/technology-55573149
